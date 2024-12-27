@@ -1,4 +1,7 @@
 package ParameterizedClasses;
 
-public class Functional {
+import java.util.function.Function;
+
+public interface Functional<T extends Function> {
+    double evaluate(T function);
 }

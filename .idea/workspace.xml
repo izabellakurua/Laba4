@@ -4,15 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d601bff-03ac-4a67-a3f8-4e0a8816c097" name="Changes" comment="" />
+    <list default="true" id="1d601bff-03ac-4a67-a3f8-4e0a8816c097" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParameterizedClasses/ExponentialFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParameterizedClasses/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParameterizedClasses/Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParameterizedClasses/IntegralFunctional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParameterizedClasses/LinearFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParameterizedClasses/RationalFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParameterizedClasses/SinFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ParameterizedClasses/SumFunctional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EquationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParameterizedClassesTest/ExponentialFunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParameterizedClassesTest/IntegralFunctionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParameterizedClassesTest/LinearFunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParameterizedClassesTest/RationalFunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParameterizedClassesTest/SinFunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParameterizedClassesTest/SumFunctionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/EquationHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/QuadraticEquationTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2qkbajwmzUD39kQGbodvYj4eLut" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,11 +59,74 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.QuadraticEquationTest.executor": "Run",
+    "JUnit.QuadraticEquationTest.testTwoRoots.executor": "Run",
+    "JUnit.example in laba_4.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.laba_4 [clean].executor": "Run",
+    "Maven.laba_4 [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="ParameterizedClasses" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.example in laba_4">
+    <configuration name="QuadraticEquationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laba_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.QuadraticEquationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuadraticEquationTest.testTwoRoots" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laba_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.QuadraticEquationTest" />
+      <option name="METHOD_NAME" value="testTwoRoots" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example in laba_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laba_4" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/org/example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.example in laba_4" />
+        <item itemvalue="JUnit.QuadraticEquationTest" />
+        <item itemvalue="JUnit.QuadraticEquationTest.testTwoRoots" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
